@@ -1,10 +1,7 @@
 import difflib
 from transformers import pipeline
 import streamlit as st
-import matplotlib.pyplot as plt
-import seaborn as sns
-import pandas as pd
-from wordcloud import WordCloud
+
 
 data =  [
     {"question": "Full support commitment developer working per business hour", "answer": "Inzint provides full support commitment with developers working per business hour."},
