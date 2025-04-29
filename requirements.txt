@@ -1,6 +1,6 @@
 tensorflow==2.15.0
 torch==2.2.1
-transformers==4.38.2
+transformers==4.48.0
 torchaudio==2.2.1
 streamlit==1.31.1
 torchvision==0.17.1
